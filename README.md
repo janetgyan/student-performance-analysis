@@ -47,6 +47,7 @@ The analysis highlights key lifestyle and academic factors that influence studen
 * `powerbi/` – Power BI dashboard file (.pbix)
 * `data/` – Dataset used for the analysis
 * `visuals/` – Dashboard screenshots
+* reports/ – Summary report (if applicable)
 
 
 ---
